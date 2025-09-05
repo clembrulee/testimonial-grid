@@ -241,7 +241,8 @@ html {
 }
 
 body {
-  background: var(--Grey-100);
+  /* background: var(--Grey-100); */
+  background: #f6f5f6;
 }
 
 main {
