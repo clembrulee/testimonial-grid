@@ -256,7 +256,7 @@ main {
 .post-card {
   border-radius: 10px;
   padding: 32px;
-  box-shadow: hsl(0deg 0% 7% / 50%) 9px 16px 20px -5px, hsl(0deg 0% 7% / 0%) 0px 6px 6px -6px;
+  box-shadow: hsl(0deg 0% 7% / 35%) 9px 16px 20px 5px, hsl(0deg 0% 7% / 0%) 0px 6px 6px -6px;
 }
 
 .post-card:nth-of-type(1) p {
